@@ -113,6 +113,7 @@ agent.run("Fetch the NVIDIA stock price. Use Yahoo finance library and plot a gr
 Resultado: 
 
 ![Gráfico de ações da NVIDIA](images/grafico-nvidia.png)
+
 Assim, podemos perceber o quão fácil é criar seus próprios agentes e adaptá-los a suas próprias tarefas com a biblioteca SmolAgents.
 # Fontes e saiba mais
 
