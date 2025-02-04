@@ -44,8 +44,8 @@ agent.run("Search on the web about UFSC. Write a small paragraph about it in por
 ```
 Resultado: 
 
-![[Pasted image 20250203205918.png]]
-![[Pasted image 20250203205947.png]]
+![Resultado da busca UFSC](images/resultado-ufsc.png)
+![Saída do agente DuckDuckGo](images/saida-duckduckgo.png)
 # Crie a sua própria tool
 
 SmolAgents também permite que você crie suas próprias ferramentas, permitindo assim que o agente seja mais especialista nas tarefas que desejar.
@@ -90,7 +90,7 @@ print(agent.run("Qual é o tempo em São Paulo?"))
 ```
 
 Resultado:
-![[Pasted image 20250204163824.png]]
+![Saída da ferramenta personalizada](images/saida-tool-clima.png)
 
 
 
@@ -112,7 +112,7 @@ agent.run("Fetch the NVIDIA stock price. Use Yahoo finance library and plot a gr
 ```
 Resultado: 
 
-![[Pasted image 20250204170336.png]]
+![Gráfico de ações da NVIDIA](images/grafico-nvidia.png)
 Assim, podemos perceber o quão fácil é criar seus próprios agentes e adaptá-los a suas próprias tarefas com a biblioteca SmolAgents.
 # Fontes e saiba mais
 
