@@ -117,7 +117,7 @@ Resultado:
 Assim, podemos perceber o quão fácil é criar seus próprios agentes e adaptá-los a suas próprias tarefas com a biblioteca SmolAgents.
 # Fontes e saiba mais
 
-CODIGOOO
+[CODIGOOO](https://github.com/vini-muchulski/medium_artigos/blob/main/smol%20agents%20medium/smol_agents_medium.ipynb)
 
 https://huggingface.co/docs/smolagents/v1.7.0/en/tutorials/secure_code_execution#code-agents
 
